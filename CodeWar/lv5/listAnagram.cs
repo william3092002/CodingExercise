@@ -10,108 +10,85 @@ namespace listAnagram
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            string testString = "ab";
-            var listOfStrings = new List<string>() { "asb", "Ba", "bsdac" };
+//using System;
+//using System.Collections.Generic;
 
-            var newList = new List<string>();
-            newList = Anagrams(testString, listOfStrings);
-            
-            foreach (var item in newList)
+//public static class Kata
+//    {
+//        public static List<string> Anagrams(string word, List<string> words)
+//        {
+//            List<string> ret = new List<string>();
+//            char[] cword = word.ToCharArray();
+//            Array.Sort(cword);
+//            word = new string(cword);
+
+//            foreach (string w in words)
+//            {
+//                char[] wchar = w.ToCharArray();
+//                Array.Sort(wchar);
+//                string temp = new string(wchar);
+//                if (word == temp)
+//                {
+//                    ret.Add(w);
+//                }
+//            }
+//            return ret;
+//        }
+//    }
+
+    static void Main(string[] args)
+        {
+            var words = new List<string> { "god", "cat", "ogd" };
+            string word = "dog";
+
+            var list1 = Anagrams(word, words);
+            foreach (var item in list1)
             {
-                Console.Write("[");
-                Console.Write(item);
-                Console.Write("]");
+                Console.Write($"[{item}]");
             }
             Console.WriteLine();
-
         }
-        //The method receives a single string(sample) and a list of strings. 
-        //The method will retrun any string that is an anagram of the sample string.
-        
+
+        public static string sort(string unsortedS)
+        {
+            //char[] unSortCArray = unsortedS.ToCharArray();
+            char[] unSortCArray = new char[unsortedS.Length];
+            for (int i = 0; i < unsortedS.Length; i++)
+            {
+                unSortCArray[i] = unsortedS[i];
+            }
+            //55-59 can be done by 54
+
+            //Array.Sort(unSortCArray);
+            int startIndx = 0;
+            int compIndx;
+            for (startIndx = 0; startIndx < unsortedS.Length; startIndx++)
+            {
+                for (compIndx = startIndx + 1; compIndx < unSortCArray.Length; compIndx++)
+                {
+                    if (unSortCArray[compIndx] < unSortCArray[startIndx])
+                    {
+                        char temp = unSortCArray[startIndx];
+                        unSortCArray[startIndx] = unSortCArray[compIndx];
+                        unSortCArray[compIndx] = temp;
+                    }
+                }
+            }
+            //62 to 75 can be done by 61
+            string sortedS = new string(unSortCArray);
+            return sortedS;
+        }
+
+
         public static List<string> Anagrams(string word, List<string> words)
         {
-            // I add all the numeric values of the character in the string and compare them.
-            // If they're identical, they're anagram.
-
-            //Generate a new list to store the strings that is anagram to my sameple string.
-            var newList = new List<string>();
-
-            //Use a for loop to iterate thorugh each characters in the sample word,
-            //get the sum(totTests) of numeric value for my sample word.
-            int totTestS = 0;
-            word = word.ToLower();
-            for (int i = 0; i < word.Length; i++)
+            var list1 = new List<string>();
+            foreach (var item in words)
             {
-                totTestS += word[i];
+                if (sort(word) == sort(item))
+                    list1.Add(item);
             }
-
-            //use a for loop to iterate through each word in my words list. 
-            for (int i = 0; i < words.Count(); i++)
-            {
-                
-                words[i] = words[i].ToLower();
-                //if the length of the sameple word and the 'i'th element in my list are different,
-                //ommit the rest of my code and give control back to line 57.
-                if (word.Length != words[i].Length)
-                {
-                    continue;
-                }
-                //declare and reset the numerica value of the 'i'th element to 0.
-                int totSampleS = 0;
-                //for loop iterate through the characters of the 'i'th element, concatnate each value to
-                //get a sum.
-                for (int c = 0; c < words[i].Length; c++)
-                {
-                    totSampleS += words[i][c];
-                }
-                //compare the sum values between the sample word and the 'i'th element in words list,
-                //if they're identical, the 'i'th element is an anagram, add it to the new list.  
-                if (totTestS == totSampleS)
-                {
-                    newList.Add(words[i]);
-                }
-            }
-            return newList;
-
-            //This is another method where I compare and remove the words that are not anagrams 
-            //using the same ASCII sum compare concept. 
-
-            //var newList = new List<string>();
-            //int totTestS = 0;
-            //word = word.ToLower();
-            //for (int i = 0; i < word.Length; i++)
-            //{
-            //    totTestS += word[i];
-            //}
-            //for (int i = 0; i < words.Count(); i++)
-            //{
-            //    words[i] = words[i].ToLower();
-            //    if (word.Length != words[i].Length)
-            //    {
-            //        words.RemoveAt(i);
-            //        i--;
-            //        continue;
-            //    }
-            //    int totSampleS = 0;
-            //    for (int c = 0; c < words[i].Length; c++)
-            //    {
-            //        totSampleS += words[i][c];
-            //    }
-            //    if (totTestS != totSampleS)
-            //    {
-            //        words.RemoveAt(i);
-            //        i--;
-            //    }
-            //    else
-            //    {
-            //        newList.Add(words[i]);
-            //    }
-            //}
-            //return newList;
+            return list1;
         }
-
     }
-
 }
