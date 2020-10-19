@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\Human Readable Time\bin\Debug\Human Readable Time.exe.config
+C:\Users\willi\source\repos\Human Readable Time\bin\Debug\Human Readable Time.exe
+C:\Users\willi\source\repos\Human Readable Time\bin\Debug\Human Readable Time.pdb
+C:\Users\willi\source\repos\Human Readable Time\obj\Debug\Human Readable Time.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Human Readable Time\obj\Debug\Human Readable Time.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Human Readable Time\obj\Debug\Human Readable Time.exe
+C:\Users\willi\source\repos\Human Readable Time\obj\Debug\Human Readable Time.pdb

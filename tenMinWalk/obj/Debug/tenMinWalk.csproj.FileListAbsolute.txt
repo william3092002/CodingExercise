@@ -1,0 +1,7 @@
+D:\gitFinal\CodingExercise\CodeWar\lv6\tenMinWalk\bin\Debug\tenMinWalk.exe.config
+D:\gitFinal\CodingExercise\CodeWar\lv6\tenMinWalk\bin\Debug\tenMinWalk.exe
+D:\gitFinal\CodingExercise\CodeWar\lv6\tenMinWalk\bin\Debug\tenMinWalk.pdb
+D:\gitFinal\CodingExercise\CodeWar\lv6\tenMinWalk\obj\Debug\tenMinWalk.csprojAssemblyReference.cache
+D:\gitFinal\CodingExercise\CodeWar\lv6\tenMinWalk\obj\Debug\tenMinWalk.csproj.CoreCompileInputs.cache
+D:\gitFinal\CodingExercise\CodeWar\lv6\tenMinWalk\obj\Debug\tenMinWalk.exe
+D:\gitFinal\CodingExercise\CodeWar\lv6\tenMinWalk\obj\Debug\tenMinWalk.pdb

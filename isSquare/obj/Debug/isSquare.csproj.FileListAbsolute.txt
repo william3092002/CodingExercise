@@ -1,0 +1,7 @@
+D:\gitFinal\CodingExercise\CodeWar\lv7\isSquare\bin\Debug\isSquare.exe.config
+D:\gitFinal\CodingExercise\CodeWar\lv7\isSquare\bin\Debug\isSquare.exe
+D:\gitFinal\CodingExercise\CodeWar\lv7\isSquare\bin\Debug\isSquare.pdb
+D:\gitFinal\CodingExercise\CodeWar\lv7\isSquare\obj\Debug\isSquare.csprojAssemblyReference.cache
+D:\gitFinal\CodingExercise\CodeWar\lv7\isSquare\obj\Debug\isSquare.csproj.CoreCompileInputs.cache
+D:\gitFinal\CodingExercise\CodeWar\lv7\isSquare\obj\Debug\isSquare.exe
+D:\gitFinal\CodingExercise\CodeWar\lv7\isSquare\obj\Debug\isSquare.pdb

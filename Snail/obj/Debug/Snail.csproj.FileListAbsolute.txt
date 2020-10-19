@@ -1,0 +1,7 @@
+D:\Code War\Snail\bin\Debug\Snail.exe.config
+D:\Code War\Snail\bin\Debug\Snail.exe
+D:\Code War\Snail\bin\Debug\Snail.pdb
+D:\Code War\Snail\obj\Debug\Snail.csprojAssemblyReference.cache
+D:\Code War\Snail\obj\Debug\Snail.csproj.CoreCompileInputs.cache
+D:\Code War\Snail\obj\Debug\Snail.exe
+D:\Code War\Snail\obj\Debug\Snail.pdb

@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\PascolS Triangle\bin\Debug\PascolS Triangle.exe.config
+C:\Users\willi\source\repos\PascolS Triangle\bin\Debug\PascolS Triangle.exe
+C:\Users\willi\source\repos\PascolS Triangle\bin\Debug\PascolS Triangle.pdb
+C:\Users\willi\source\repos\PascolS Triangle\obj\Debug\PascolS Triangle.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\PascolS Triangle\obj\Debug\PascolS Triangle.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\PascolS Triangle\obj\Debug\PascolS Triangle.exe
+C:\Users\willi\source\repos\PascolS Triangle\obj\Debug\PascolS Triangle.pdb

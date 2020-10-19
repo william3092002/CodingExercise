@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\morseDecode\bin\Debug\morseDecode.exe.config
+C:\Users\willi\source\repos\morseDecode\bin\Debug\morseDecode.exe
+C:\Users\willi\source\repos\morseDecode\bin\Debug\morseDecode.pdb
+C:\Users\willi\source\repos\morseDecode\obj\Debug\morseDecode.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\morseDecode\obj\Debug\morseDecode.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\morseDecode\obj\Debug\morseDecode.exe
+C:\Users\willi\source\repos\morseDecode\obj\Debug\morseDecode.pdb

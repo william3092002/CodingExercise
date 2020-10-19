@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\pyramid\bin\Debug\pyramid.exe.config
+C:\Users\willi\source\repos\pyramid\bin\Debug\pyramid.exe
+C:\Users\willi\source\repos\pyramid\bin\Debug\pyramid.pdb
+C:\Users\willi\source\repos\pyramid\obj\Debug\pyramid.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\pyramid\obj\Debug\pyramid.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\pyramid\obj\Debug\pyramid.exe
+C:\Users\willi\source\repos\pyramid\obj\Debug\pyramid.pdb

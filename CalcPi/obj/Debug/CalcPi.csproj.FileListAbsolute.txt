@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\CalcPi\bin\Debug\CalcPi.exe.config
+C:\Users\willi\source\repos\CalcPi\bin\Debug\CalcPi.exe
+C:\Users\willi\source\repos\CalcPi\bin\Debug\CalcPi.pdb
+C:\Users\willi\source\repos\CalcPi\obj\Debug\CalcPi.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\CalcPi\obj\Debug\CalcPi.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\CalcPi\obj\Debug\CalcPi.exe
+C:\Users\willi\source\repos\CalcPi\obj\Debug\CalcPi.pdb

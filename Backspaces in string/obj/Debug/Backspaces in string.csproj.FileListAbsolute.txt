@@ -1,0 +1,7 @@
+D:\Code War\Backspaces in string\bin\Debug\Backspaces in string.exe.config
+D:\Code War\Backspaces in string\bin\Debug\Backspaces in string.exe
+D:\Code War\Backspaces in string\bin\Debug\Backspaces in string.pdb
+D:\Code War\Backspaces in string\obj\Debug\Backspaces in string.csprojAssemblyReference.cache
+D:\Code War\Backspaces in string\obj\Debug\Backspaces in string.csproj.CoreCompileInputs.cache
+D:\Code War\Backspaces in string\obj\Debug\Backspaces in string.exe
+D:\Code War\Backspaces in string\obj\Debug\Backspaces in string.pdb

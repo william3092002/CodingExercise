@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\AddingBigNumbers\bin\Debug\AddingBigNumbers.exe.config
+C:\Users\willi\source\repos\AddingBigNumbers\bin\Debug\AddingBigNumbers.exe
+C:\Users\willi\source\repos\AddingBigNumbers\bin\Debug\AddingBigNumbers.pdb
+C:\Users\willi\source\repos\AddingBigNumbers\obj\Debug\AddingBigNumbers.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\AddingBigNumbers\obj\Debug\AddingBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\AddingBigNumbers\obj\Debug\AddingBigNumbers.exe
+C:\Users\willi\source\repos\AddingBigNumbers\obj\Debug\AddingBigNumbers.pdb

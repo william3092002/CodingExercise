@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\ParseInt reloaded\bin\Debug\ParseInt reloaded.exe.config
+C:\Users\willi\source\repos\ParseInt reloaded\bin\Debug\ParseInt reloaded.exe
+C:\Users\willi\source\repos\ParseInt reloaded\bin\Debug\ParseInt reloaded.pdb
+C:\Users\willi\source\repos\ParseInt reloaded\obj\Debug\ParseInt reloaded.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\ParseInt reloaded\obj\Debug\ParseInt reloaded.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\ParseInt reloaded\obj\Debug\ParseInt reloaded.exe
+C:\Users\willi\source\repos\ParseInt reloaded\obj\Debug\ParseInt reloaded.pdb

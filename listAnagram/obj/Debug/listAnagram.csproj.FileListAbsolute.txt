@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\listAnagram\bin\Debug\listAnagram.exe.config
+C:\Users\willi\source\repos\listAnagram\bin\Debug\listAnagram.exe
+C:\Users\willi\source\repos\listAnagram\bin\Debug\listAnagram.pdb
+C:\Users\willi\source\repos\listAnagram\obj\Debug\listAnagram.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\listAnagram\obj\Debug\listAnagram.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\listAnagram\obj\Debug\listAnagram.exe
+C:\Users\willi\source\repos\listAnagram\obj\Debug\listAnagram.pdb

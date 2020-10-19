@@ -1,0 +1,7 @@
+D:\Code War\Binary Addition\bin\Debug\Binary Addition.exe.config
+D:\Code War\Binary Addition\bin\Debug\Binary Addition.exe
+D:\Code War\Binary Addition\bin\Debug\Binary Addition.pdb
+D:\Code War\Binary Addition\obj\Debug\Binary Addition.csprojAssemblyReference.cache
+D:\Code War\Binary Addition\obj\Debug\Binary Addition.csproj.CoreCompileInputs.cache
+D:\Code War\Binary Addition\obj\Debug\Binary Addition.exe
+D:\Code War\Binary Addition\obj\Debug\Binary Addition.pdb

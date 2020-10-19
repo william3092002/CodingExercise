@@ -1,0 +1,7 @@
+D:\gitFinal\CodingExercise\CodeWar\lv6\stop spinning my words\bin\Debug\stop spinning my words.exe.config
+D:\gitFinal\CodingExercise\CodeWar\lv6\stop spinning my words\bin\Debug\stop spinning my words.exe
+D:\gitFinal\CodingExercise\CodeWar\lv6\stop spinning my words\bin\Debug\stop spinning my words.pdb
+D:\gitFinal\CodingExercise\CodeWar\lv6\stop spinning my words\obj\Debug\stop spinning my words.csprojAssemblyReference.cache
+D:\gitFinal\CodingExercise\CodeWar\lv6\stop spinning my words\obj\Debug\stop spinning my words.csproj.CoreCompileInputs.cache
+D:\gitFinal\CodingExercise\CodeWar\lv6\stop spinning my words\obj\Debug\stop spinning my words.exe
+D:\gitFinal\CodingExercise\CodeWar\lv6\stop spinning my words\obj\Debug\stop spinning my words.pdb
